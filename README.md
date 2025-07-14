@@ -9,9 +9,9 @@
 • Some signals from nature (like sound, light, or movement) are **analog**.   <br>
 • To process these signals, we first use analog circuits, then convert the signal to digital.   <br>
 • Examples where analog is needed:  <br>
-    &nbsp;◦ Natural signals (microphone sound, camera sensors)  <br>
-    ◦ Communication signals traveling long cables or wireless   <br>
-    ◦ Sensors (accelerometers in cars to trigger airbags)  <br>
+    &nbsp;&nbsp;◦ Natural signals (microphone sound, camera sensors)  <br>
+    &nbsp;&nbsp;◦ Communication signals traveling long cables or wireless   <br>
+    &nbsp;&nbsp;◦ Sensors (accelerometers in cars to trigger airbags)  <br>
 • Analog circuits help amplify, filter, and convert signals for digital use.  <br>
 
 ### **1.2 Applications of Analog Circuits**
