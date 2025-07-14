@@ -4,15 +4,15 @@
 
 ### **1.1 Why Analog?**
 
-• **Many experts in the 1980s thought analog circuits would disappear** because digital circuits were becoming very powerful.
-• But analog circuits are still **very important** today.
-• Some signals from nature (like sound, light, or movement) are **analog**.
-• To process these signals, we first use analog circuits, then convert the signal to digital.
-• Examples where analog is needed:
-    ◦ Natural signals (microphone sound, camera sensors)
-    ◦ Communication signals traveling long cables or wireless
-    ◦ Sensors (accelerometers in cars to trigger airbags)
-• Analog circuits help amplify, filter, and convert signals for digital use.
+• **Many experts in the 1980s thought analog circuits would disappear** because digital circuits were becoming very powerful. <br>
+• But analog circuits are still **very important** today. <br>
+• Some signals from nature (like sound, light, or movement) are **analog**.   <br>
+• To process these signals, we first use analog circuits, then convert the signal to digital.   <br>
+• Examples where analog is needed:  <br>
+    ◦ Natural signals (microphone sound, camera sensors)   <br>
+    ◦ Communication signals traveling long cables or wireless   <br>
+    ◦ Sensors (accelerometers in cars to trigger airbags)  <br>
+• Analog circuits help amplify, filter, and convert signals for digital use.  <br>
 
 ### **1.2 Applications of Analog Circuits**
 
