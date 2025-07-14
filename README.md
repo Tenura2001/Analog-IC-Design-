@@ -26,7 +26,7 @@
 ### **1.3 Why CMOS?**
 
 • CMOS technology uses **n-type and p-type MOSFETs together**, invented in the 1960s.  <br> 
-• CMOS is popular because:
+• CMOS is popular because: <br>
      &nbsp;&nbsp;&nbsp;◦ Uses very little power (only when switching) <br>
      &nbsp;&nbsp;&nbsp;◦ Easy to make small transistors (scaling) <br>
      &nbsp;&nbsp;&nbsp;◦ Cheaper fabrication costs  <br>
@@ -39,7 +39,7 @@
 • Analog circuit design has changed as devices get smaller and voltages get lower.  <br>
 • Analog and digital circuits are now made on the same chip.  <br>
 • This creates new design challenges.  <br>
-• Good analog designers need:
+• Good analog designers need: <br>
    &nbsp;&nbsp;&nbsp;  ◦ **Engineer’s skills**: to understand the whole circuit quickly <br>
    &nbsp;&nbsp;&nbsp;  ◦ **Mathematician’s skills**: to analyze subtle effects with math <br>
    &nbsp;&nbsp;&nbsp;  ◦ **Artist’s skills**: to invent new circuit designs  <br>
@@ -49,7 +49,7 @@
 ### **1.5 General Concepts**
 
 **1.5.1 Levels of Abstraction**
-• We study circuits at different levels:
+• We study circuits at different levels: <br>
    &nbsp;&nbsp;&nbsp;  ◦ **Device physics level**: How electrons move inside a transistor <br>
    &nbsp;&nbsp;&nbsp;  ◦ **Transistor level**: Electrical behavior of transistors <br>
    &nbsp;&nbsp;&nbsp;  ◦ **Architecture level**: How groups of devices form blocks (like amplifiers) <br>
@@ -58,7 +58,7 @@
 • In the industry, people working at all levels must communicate to make good chips.
 
 **1.5.2 Robust Analog Design**
-• Real circuits must work well even when conditions change:
+• Real circuits must work well even when conditions change: <br>
     &nbsp;&nbsp;&nbsp; ◦ Manufacturing differences (Process)<br>
     &nbsp;&nbsp;&nbsp; ◦ Supply voltage changes (Voltage)<br>
     &nbsp;&nbsp;&nbsp; ◦ Temperature changes (Temperature)  <br>
